@@ -2,6 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
+Hi, my name is Lauro, I'm from Brazil. I'm a Backend Python developer working as a freelancer. I have experience in automation and web development, and I'm proficient in SQL, NoSQL, HTML5, CSS, JavaScript and other technologies. If you need a reliable developer for your project, feel free to send me a proposal!
 
 ---
 
